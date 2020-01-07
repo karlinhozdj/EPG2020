@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo EPTV Campinas FHD">
+    <display-name lang="pt">Globo EPTV Campinas FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT FHD">
+    <display-name lang="pt">SBT FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV SP FHD">
+    <display-name lang="pt">RecordTV SP FHD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/saigon.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band SP FHD">
+    <display-name lang="pt">Band SP FHD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede TV FHD">
+    <display-name lang="pt">Rede TV FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
